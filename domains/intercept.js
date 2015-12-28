@@ -1,3 +1,4 @@
+// Sample 6
 //domain.intercept(callback)
 //• callback {Function} The callback function
 //• return: {Function} The intercepted function

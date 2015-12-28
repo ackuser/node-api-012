@@ -1,8 +1,3 @@
-https://engineering.gosquared.com/error-handling-using-domains-node-js
-https://www.joyent.com/developers/node/design#EventEmitter
-http://www.howtojs.org/understanding-exceptions-domains-in-nodejs/
-http://becausejavascript.com/node-js-process-nexttick-vs-setimmediate/
-
 Domains
 Domain is a useful module built into the core of Node that allows developers to gracefully handle unexpected errors for asynchronous events. That is to say, you can group related asynchronous IO operations together and if one of them errors in an unexpected way, that error won't necessarily disrupt other IO happening in the event queue.
 

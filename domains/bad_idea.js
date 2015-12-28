@@ -1,3 +1,4 @@
+//Sample 1 from api
 // XXX WARNING! BAD IDEA!
 var d = require('domain').create();
 d.on('error', function(er) {

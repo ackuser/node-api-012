@@ -1,3 +1,4 @@
+// Sample 5
 //domain.bind(callback)
 //• callback {Function} The callback function
 //• return: {Function} The bound function

@@ -1,3 +1,4 @@
+// Sample 2
 // Much better!
 var cluster = require('cluster');
 var PORT = +process.env.PORT || 1337;
